@@ -332,6 +332,18 @@ end
 
 classDef done fill:#9e9e9e,color:#fff,stroke:#757575
 ```
+## Real-World Use Cases (Early Ideas)
+
+While Hive is primarily presented as a developer-focused framework, it has strong potential for real-world business applications where autonomous agents can execute and evolve processes with minimal human intervention.
+
+Some early use-case ideas include:
+
+- **Operational automation**: agents handling recurring business workflows such as reporting, data synchronization, or internal tooling.
+- **Compliance-aware processes**: agent-driven tasks operating under regulatory constraints (e.g. healthcare, finance), with human-in-the-loop validation.
+- **Decision support systems**: agents that observe signals, propose actions, and continuously improve based on outcomes.
+- **Product experimentation**: rapidly testing process variations and learning from real-time feedback loops.
+
+These examples are intentionally high-level and meant to spark discussion around how Hive can be applied beyond purely technical experimentation.
 ## Contributing
 
 We welcome contributions from the community! We’re especially looking for help building tools, integrations, and example agents for the framework ([check #2805](https://github.com/adenhq/hive/issues/2805)). If you’re interested in extending its functionality, this is the perfect place to start. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
